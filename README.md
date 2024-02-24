@@ -1,1 +1,1 @@
-# skybugtech_task2
+# Titanic Survival Prediction
